@@ -1,4 +1,5 @@
-# Custom Parse Server Setup for Migration
+# Round.space Server
+
 This project provides a Parse Server backend setup for supporting your round installation.
 ## Getting Started Locally
 ### Prerequisites
